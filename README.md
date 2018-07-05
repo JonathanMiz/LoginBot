@@ -19,6 +19,6 @@ password.submit()
 
 ## Links:
 
-1. [Python download] {https://www.python.org/downloads/}
-2. [Chrome driver download] {http://chromedriver.chromium.org/downloads}
-3. [Webdriver api]{http://selenium-python.readthedocs.io/api.html}
+1. https://www.python.org/downloads/
+2. http://chromedriver.chromium.org/downloads
+3. http://selenium-python.readthedocs.io/api.html
