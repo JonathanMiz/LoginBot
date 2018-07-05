@@ -11,7 +11,7 @@ driver = webdriver.Chrome()
 driver.get("url")
 userName = driver.find_element_by_id('usernameId')
 userName.send_keys("username")
-password = driver.find_element_by_id(passworId')
+password = driver.find_element_by_id(passwordId')
 password.send_keys("password")
 password.submit()
 
